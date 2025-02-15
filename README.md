@@ -8,27 +8,25 @@ This project presents a **comprehensive analysis of Bajaj Auto’s two-wheeler s
 ## 🛠 Tools, Assets & Technologies Used
 
 - **Dataset**: Bajaj Auto Sample Sales Dataset
+- **Dataset Transformation**: Jupyter Notebook
 - **Visualization**: Tableau
 - **Data Processing**: MS Excel
-- **Financial Report**: Broadridge Annual Report 2024
-
 ---
 
 ## 💂 Project Structure
 
 ```
 📁 Sales-Revenue-Analysis
-🎉 README.md
-🎩 Data/
-   ├️ Bajaj_Auto_Sales.xlsx
-   ├️ Broadridge_Annual_Report_2024.pdf
-📈 Visualizations/
-   ├️ Tableau_Dashboards.png
+🎉 Data Overview
+🎩 Methodology
+   ├️ Segmentation, Trend Analysis & Comparative Analysis
+📈 Visualizations
    ├️ Sales_Trends_Graphs.png
    ├️ Revenue_Per_Model.png
-🏋 Analysis/
-   ├️ Sales_Revenue_Insights.pdf
-   ├️ Financial_Analysis_Report.pdf
+🏋 Key Insights & Conclusion
+   ├️ Sales & Revenue_Insights
+   ├️ Market Trends & Regional Growth Analysis
+   ├️ Conclusion
 ```
 
 ---
@@ -62,6 +60,15 @@ This project presents a **comprehensive analysis of Bajaj Auto’s two-wheeler s
 
 ---
 
+## 🎨 Visualizations
+
+### **Sales Trend Analysis**
+![Sales Trends](https://github.com/arushichandrakar/Bikeonomics/blob/main/Sales_Dashboard.png)
+
+### **Revenue Per Model**
+![Revenue Per Model](https://github.com/arushichandrakar/Bikeonomics/blob/main/Revenue_Dashboard.png)
+
+---
 ### 📌 3. Key Insights
 
 #### 🔥 **Overall Sales & Revenue Analysis (2023)**
@@ -82,19 +89,6 @@ This project presents a **comprehensive analysis of Bajaj Auto’s two-wheeler s
   - **North & East** favor **Platina 100**.
   - **South & West** favor **Pulsar 150**.
   - **Dominar 400** has **lowest sales in the North**.
-
----
-
-## 🎨 Visualizations
-
-### **Sales Trend Analysis**
-![Sales Trends](Visualizations/Sales_Trends_Graphs.png)
-
-### **Revenue Per Model**
-![Revenue Per Model](Visualizations/Revenue_Per_Model.png)
-
-### **Tableau Dashboard**
-![Tableau Dashboard](Visualizations/Tableau_Dashboards.png)
 
 ---
 
@@ -139,8 +133,8 @@ This analysis helps in **understanding key sales trends, revenue breakdowns, and
 For more details or collaboration, reach out:
 
 📩 **Email:** arushi20x@gmail.com  
-🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/arushi-chandrakar/)  
-📊 **Portfolio:** [Your Website](https://github.com/arushichandrakar/)
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/arushi-chandrakar/)  
+📊 **Portfolio:** [My Portfolio](https://github.com/arushichandrakar/)
 
 ---
 
